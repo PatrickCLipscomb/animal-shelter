@@ -20,13 +20,13 @@ div {
 
 .center {
   float: left;
-  width: 275px;
+  width: 30%;
   background-color: yellow;
 }
 
 .center img {
   float: left;
-  width: 275px;
+  width: 100%;
 }
 
 .right {
