@@ -1,0 +1,47 @@
+body {
+  padding: 30px;
+}
+
+div {
+  padding: 30px;
+  margin: 20px;
+}
+
+.left {
+  float: left;
+  width: 275px;
+  background-color: pink;
+}
+
+.left img {
+  float: left;
+  width: 275px;
+}
+
+.center {
+  float: left;
+  width: 275px;
+  background-color: yellow;
+}
+
+.center img {
+  float: left;
+  width: 275px;
+}
+
+.right {
+  float: left;
+  width: 275px;
+  background-color: brown;
+}
+
+.right img {
+  float: left;
+  width: 275px;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  color: magenta
+}
